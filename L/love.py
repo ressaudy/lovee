@@ -5,7 +5,7 @@ t.shapesize(0.2, 0.2)
 s = turtle.Screen()
 s.bgcolor("black")
 
-t. fillcolor("burgundy")
+t. fillcolor("red")
 t.begin_fill()
 
 t.left(50)
